@@ -1,0 +1,21 @@
+Sudoku
+Class Design Draft
+Our project will include the following classes
+1) Cell
+This class will represent a cell in the Sudoku board.
+It will contain
+row number
+column number
+the state of the cell(if it is set by the player or not).
+
+2) Sudoku
+This class will store the state of an ongoing game of Sudoku and have a functionality to modify the Sudoku board.
+It will contain
+the board of the current state.
+The board will consists of cells.
+
+
+3) SudokuDemo
+This class will contain the main method that will illustrate the game process.
+
+Note: This is the initial draft of our project and it may be changed in the future.
